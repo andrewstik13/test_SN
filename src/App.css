@@ -9,26 +9,3 @@
     grid-template-columns: 2fr 10fr;
     grid-gap: 10px;
 }
-
-#main-header-page {
-    width: 200px;
-}
-
-.app-header {
-    grid-area: link-header;
-    background-color: aquamarine;
-}
-
-.app-header img {
-    width: 20px;
-}
-
-.app-nav {
-    grid-area: link-nav;
-    background-color: bisque;
-}
-
-.app-content {
-    grid-area: link-content;
-    background-color: dodgerblue;
-}
