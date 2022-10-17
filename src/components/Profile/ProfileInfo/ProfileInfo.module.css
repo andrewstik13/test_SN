@@ -1,0 +1,8 @@
+.content {
+    grid-area: link-content;
+    background-color: dodgerblue;
+}
+
+#main_content_page {
+    width: 200px;
+}
